@@ -11,4 +11,4 @@ For now it's all local, but making it call virtualbox on another server should c
  - development moved to a [branch](https://github.com/LoveIsGrief/salt/tree/salt-27089) for saltstack/salt#27089
  - PR saltstack/salt#31058
 
-**this REPO will is deprecated and will be deleted**
+**this REPO is deprecated and will be deleted**
